@@ -27,7 +27,7 @@ _putchar(r + '0');
 }
 else
 {
-if (w ! = 0)
+if (w != 0)
 {
 _putchar(44);
 _putchar(32);
