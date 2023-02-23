@@ -28,13 +28,13 @@ printf("Buzz");
 }
 else
 {
-printf("%d", x);
+printf("%d" , x);
 }
 if (x != 100)
 {
-printf(" "0);
+printf(" ");
 }
 }
-printf("\n");
+printf('\n');
 return (0);
 }
