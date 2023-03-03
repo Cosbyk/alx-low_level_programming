@@ -6,7 +6,7 @@
  * Return: n value
  */
 
-char *leet(cahr *n)
+char *leet(char *n)
 
 {
 
