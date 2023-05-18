@@ -3,10 +3,9 @@
 #include <stdlib.h>
 
 /**
- * free_dlistint - Frees a dlistint_t list
+ * free_dlistint - Frees a dlistint_t list.
  *
- * @head: Pointer to the head of the list
- * Return: no return
+ * @head: Pointer to the head of the list.
  */
 void free_dlistint(dlistint_t *head)
 {
